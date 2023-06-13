@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase_Auth</string>
+    <string name="noConnection">No hay conexión</string>
+    <string name="string">string</string>
+    <string name="specie">Especie: </string>
+    <string name="ancestry">Ascendencia: </string>
+    <string name="wood">Madera de varita: </string>
+    <string name="core">Núcleo de varita: </string>
+    <string name="patronus">Patronus: </string>
+    <string name="birthday">Cumpleaños: </string>
+</resources>
